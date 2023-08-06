@@ -10,7 +10,7 @@
 4. covert user input to bool datatype
 5. add 2 given integer number
 6. subtract 2 given nnumber
-7. multiply to given integer
+7. multiply to given 2 integer
 8. divide 2 integer 
 9. modulus of given 2 integer
 10. get interest rate, pricipal amount, duration from user and print intrest amount
